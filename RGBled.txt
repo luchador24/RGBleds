@@ -1,0 +1,1 @@
+LED RGB: posee 4 pines por ello sus colores puede variar
